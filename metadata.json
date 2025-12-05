@@ -1,0 +1,5 @@
+{
+  "name": "人口数据回流应用",
+  "description": "A specialized data empowerment system for Weifang public security, featuring data aggregation, comprehensive search, family relationship mapping, and a data command cockpit.",
+  "requestFramePermissions": []
+}
